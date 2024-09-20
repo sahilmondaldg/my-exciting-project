@@ -1,2 +1,3 @@
 #!/bin/python
-print('Hello, World!')
+print('Hajimemashite sekai!')
+print('Howdy, World!')
